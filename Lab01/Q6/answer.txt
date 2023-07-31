@@ -1,0 +1,5 @@
+The errors in the original code were:
+
+The method name was misspelled as mains instead of main.
+The System.out.println() statement at the end of the first for loop was missing a semicolon.
+The String literal "James" was missing quotation marks.
